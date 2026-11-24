@@ -2,7 +2,7 @@
 
 Laboratorio interattivo del corso di architettura dei sistemi, in lingua italiana. Accompagna la dispensa *Architecture of Computer Systems* di Marzio De Corato e Danilo Bruschi.
 
-Indirizzo pubblico: <https://marzione00.github.io/Archittetura_PUB_accessibile/>
+Indirizzo pubblico: <https://marzione00.github.io/Architettura_PUB_accessibile/>
 
 Edizione standard: <https://marzione00.github.io/Archittetura_PUB_/>, nel repository `Archittetura_PUB_`. Le due edizioni hanno i medesimi contenuti; questa aggiunge le misure di accessibilità descritte più sotto.
 
